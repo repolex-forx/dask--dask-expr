@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "dask-expr",
+  "versions": [
+    {
+      "commit": "42e7a8958ba286a4c7b2f199d143a70b0b479489",
+      "tag": "",
+      "parsed_at": "2026-10-17T03:53:23.858527+00:00"
+    }
+  ]
+}
